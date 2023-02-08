@@ -1,5 +1,5 @@
 services:
-  pythonapp:
+  test1_pythonapp_1:
     build:  ./
     command: python ./main.py
 
