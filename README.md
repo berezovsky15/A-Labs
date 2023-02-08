@@ -23,4 +23,4 @@ The instruction if you are just using Docker and Docker Compose:
 3. Run "docker-compose build".
 4. Run "docker-compose run".
 
-Hope you liked it :)
+Hope you like it :)
