@@ -1,0 +1,7 @@
+services:
+  lightweightpython:
+    build:  ./docker/lightweight
+    command: python ./main.py
+  stardartpython:
+    build:  ./docker/standart
+    command: python ./main.py
